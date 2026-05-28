@@ -1,8 +1,7 @@
 import NavBar from "./components/NavBar/NavBar";
 import Hero from "./components/Hero/Hero";
 import Servicios from "./components/Servicios/Servicios";
-import Ofertas from "./components/Ofertas/Ofertas";
-import Proyectos from "./components/Proyectos/Proyectos";
+
 import Nosotros from "./components/Nosotros/Nosotros";
 import Contacto from "./components/Contacto/Contacto";
 import Footer from "./components/Footer/Footer";
