@@ -1,8 +1,8 @@
-import { useState } from "react";
+// import { useState } from "react";
 import "./FloatingButtons.css";
 
 function FloatingButtons() {
-  const [showOfertas, setShowOfertas] = useState(false);
+  // const [showOfertas, setShowOfertas] = useState(false);
 
   return (
     <>
